@@ -61,7 +61,7 @@ Le projet "La Table d'Hélène" est une application en PHP conçue pour simplifi
 - Modification du statut des tickets par le barman.
 - Statuts : 'En cours', 'Prêt', 'Servi'.
 
-<img width="960" alt="image" src="https://github.com/y28lyn/sgrc/assets/97447648/2f89658e-ceb1-4172-9524-f0304d8d60d3">
+<img width="960" alt="image" src="https://github.com/mehdilb8/La-table-d-H-l-ne/blob/main/2.PNG">
 
 ### Caisse
 
