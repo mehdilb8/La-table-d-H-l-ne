@@ -17,7 +17,7 @@ Le projet "La Table d'Hélène" est une application en PHP conçue pour simplifi
 - Gestion des utilisateurs : ajout, suppression, et modification des informations des utilisateurs avec cinq rôles valides (admin, cuisine, bar, service, caisse).
 - Gestion des catégories et sous-catégories pour ranger les plats, les boissons et les vins.
 
-<img width="960" alt="image" src="https://github.com/y28lyn/sgrc/assets/97447648/c4a2b563-2187-40a6-be86-d7a3fe8202eb">
+<img width="960" alt="image" src="https://github.com/mehdilb8/La-table-d-H-l-ne/blob/main/1.PNG">
 
 <img width="960" alt="image" src="https://github.com/y28lyn/sgrc/assets/97447648/b0122873-a765-49f6-adca-9f9b37453967">
 
